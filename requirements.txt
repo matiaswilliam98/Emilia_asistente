@@ -155,7 +155,7 @@ supervisor==4.2.5
 #tensorflow==2.19.0
 #tensorflow-io-gcs-filesystem==0.37.1
 termcolor==3.1.0
-tink==1.11.0
+#tink==1.11.0
 toml==0.10.2
 tomlkit==0.13.2
 traitlets==5.14.3
